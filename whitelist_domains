@@ -1,5 +1,21 @@
 ## Taken from https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
 
+# Empornium
+tracker.empornium.sx
+
+# Unreal Engine
+cdn2.unrealengine.com
+
+# Twitch
+clips.twitch.tv
+
+# Discord
+cdn.discordapp.com
+discordapp.com
+
+# Macy's
+hr.macys.net
+
 # Google Maps and other Google services
 clients1.google.com
 clients2.google.com
@@ -85,40 +101,6 @@ officeclient.microsoft.com
 spclient.wg.spotify.com
 apresolve.spotify.com
 
-# Facebook
-creative.ak.fbcdn.net
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
-fbcdn-creative-a.akamaihd.net
-scontent-lhr3-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
-scontent.fgdl5-1.fna.fbcdn.net
-graph.facebook.com
-connect.facebook.com
-cdn.fbsbx.com
-m.facebook.com
-www.facebook.com
-facebook.com
-static.xx.fbcdn.net
-edge-chat.facebook.com
-0-edge-chat.facebook.com
-1-edge-chat.facebook.com
-2-edge-chat.facebook.com
-3-edge-chat.facebook.com
-4-edge-chat.facebook.com
-5-edge-chat.facebook.com
-6-edge-chat.facebook.com
-mqtt-mini.facebook.com
-edge-mqtt.facebook.com
 
 # Plex
 plex.tv
@@ -151,6 +133,7 @@ dashboard.plex.tv
 gravatar.com
 thetvdb.com
 themoviedb.com
+medium.com
 
 # Sonarr
 services.sonarr.tv
@@ -159,17 +142,10 @@ download.sonarr.tv
 apt.sonarr.tv
 forums.sonarr.tv
 
-# Placehold.it - Image placeholders often used during web design
-placehold.it
-placeholdit.imgix.net
-
 # Dropbox
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
-
-# Images on marketwatch
-s.marketwatch.com
 
 # Apple music, if guests using this thing are visiting
 itunes.apple.com
@@ -187,13 +163,6 @@ cf-st.sc-cdn.net
 
 # Nvidia
 gfwsl.geforce.com
-
-# Videos in times.com and nydailynews.com
-delivery.vidible.tv
-img.vidible.tv
-videos.vidible.tv
-edge.api.brightcove.com
-cdn.vidible.tv
 
 # Bing maps platform :joy:
 dev.virtualearth.net
@@ -218,6 +187,11 @@ www.appleiphonecell.com
 settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
+ctldl.windowsupdate.com
+fe2.update.microsoft.com
+au.download.windowsupdate.com
+download.windowsupdate.com
+sls.update.microsoft.com
 
 ## Amit's additions
 
